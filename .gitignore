@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Large self-hosted AI assets — NOT committed (GitHub blocks >100 MB files and
+# LFS bandwidth would be costly). Fetch them with: scripts/fetch_assets.sh
+# ---------------------------------------------------------------------------
+app/static/models/
+app/static/vendor/
+app/static/df3/
+
+# Local SQLite history (per-machine, may contain transcripts)
+*.db
+app/sovereign_history.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / OS
+.DS_Store
+*.swp
+
+# Claude Code tooling (machine-specific)
+.claude/
+
+# Scratch / test artifacts
+app/static/_*.wav
+/tmp/

@@ -1,0 +1,17 @@
+{
+  "name": "Sovereign Audio Studio",
+  "short_name": "Sovereign",
+  "description": "100% local AI noise removal & multilingual transcription. No servers, no cost, no audio ever leaves your device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070a0f",
+  "theme_color": "#0b1018",
+  "orientation": "any",
+  "categories": ["productivity", "utilities", "music"],
+  "icons": [
+    { "src": "/static/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/static/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/static/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
