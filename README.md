@@ -175,5 +175,13 @@ All bundled third-party components are permissive (MIT / Apache-2.0) and documen
 ## 🛠️ Tech
 Transformers.js · OpenAI Whisper (`whisper-base`, `distil-whisper-small.en`) · WebGPU / WASM · Web Audio API · Canvas · Web Workers · FastAPI · SQLite.
 
-## 📄 License
-Provided as a complete product reference. Whisper models are MIT-licensed; Transformers.js is Apache-2.0.
+## License
+
+Proprietary — Copyright (c) 2026 Yuta Nagao, all rights reserved.
+This repository is public for evaluation only; no licence to use, copy,
+modify, or distribute is granted. The project is available for
+acquisition or licensing — contact via
+https://nagayu-portfolio.nagayu.workers.dev/en
+
+Third-party components and models are licensed separately by their
+respective authors — see THIRD_PARTY_LICENSES.md.
